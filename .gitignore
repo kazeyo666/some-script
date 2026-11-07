@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+client.txt
+config.json
+*.key
+*.pem
+使用说明.txt
+验证结果.txt
